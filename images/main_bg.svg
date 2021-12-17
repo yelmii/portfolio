@@ -1,0 +1,31 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1280" height="800" viewBox="0 0 1280 800">
+  <defs>
+    <style>
+      .cls-1 {
+        fill: #fff;
+        stroke: #707070;
+      }
+
+      .cls-2 {
+        clip-path: url(#clip-path);
+      }
+
+      .cls-3 {
+        fill: #64adfa;
+      }
+
+      .cls-4 {
+        fill: #fbe058;
+      }
+    </style>
+    <clipPath id="clip-path">
+      <rect id="사각형_2" data-name="사각형 2" class="cls-1" width="1280" height="800"/>
+    </clipPath>
+  </defs>
+  <g id="마스크_그룹_1" data-name="마스크 그룹 1" class="cls-2">
+    <g id="main_left" transform="translate(-7.227 -54.018)">
+      <path id="패스_2" data-name="패스 2" class="cls-3" d="M2252.863,729.73S2181,860.246,2042.674,882.958s-163.775-3.586-223.53,124.318c-43.157,94.435-112.478,180.379-111.764,271.35,1.107,141.054,220.571,282.273,235.7,273.74-59.968,53.332-785.671,21.518-785.671,21.518l-6.64-878.6Z" transform="translate(-1130.635 -676.448)"/>
+      <path id="패스_1" data-name="패스 1" class="cls-4" d="M2235.709,748.568s-52.957,111.678-191.516,134.39-164.054-3.586-223.91,124.318c-43.231,94.435-112.67,180.379-111.955,271.35,1.109,141.054,220.946,282.273,236.1,273.74-60.07,53.332-787.01,21.518-787.01,21.518l-6.651-878.6Z" transform="translate(-1150.771 -695.286)"/>
+    </g>
+  </g>
+</svg>

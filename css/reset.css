@@ -1,0 +1,47 @@
+@font-face {
+    font-family: AppleSDGothicNeo;
+    src: url(../font/AppleSDGothicNeoH.ttf);
+    font-weight: 500;
+}
+@font-face {
+    font-family: AppleSDGothic;
+    src: url(../font/AppleSDGothicNeoEB.ttf);
+    font-weight: 400;
+}
+@font-face {
+    font-family: AppleSDGothic;
+    src: url(../font/AppleSDGothicNeoB.ttf);
+    font-weight: 300;
+}
+@font-face {
+    font-family: AppleSDGothic;
+    src: url(../font/AppleSDGothicNeoM.ttf);
+    font-weight: 200;
+}
+@font-face {
+    font-family: AppleSDGothic;
+    src: url(../font/AppleSDGothicNeoL.ttf);
+    font-weight: 100;
+}
+
+*{margin: 0; padding: 0; box-sizing: border-box;}
+html{
+    font-family: 'AppleSDGothic';
+    font-weight: 200;
+    overflow-x: hidden;
+    overflow-y: scroll;
+    color: #1a1a1a;
+}
+
+li,ol{list-style: none;}
+.hidden{
+    text-indent: -9999px;
+    font-size: 0;
+}
+.cf::after{
+    content: '';
+    display: block;
+    clear: both;
+}
+.fl{float: left;}
+img{width: 100%;}
